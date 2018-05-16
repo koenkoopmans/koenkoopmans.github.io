@@ -1,4 +1,4 @@
-var CACHE_NAME = 'my-site-cache-v1';
+var CACHE_NAME = 'my-site-cache-v8';
 var urlsToCache = [
     '/',
     'https://www.dennisvanriet.nl/ractive_rest/ractive_data.php?size=1000'
