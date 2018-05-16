@@ -1,0 +1,16 @@
+{
+  "author": "Koen Koopmans",
+  "version": "0.1",
+  "version_name": "0.1 beta",
+  "homepage_url": "http://localhost:63342/periode%204/opdracht5/index.html?_ijt=kv5mvv92c2m0ov62h4bllhajab",
+  "description": "Een oefening voor school manifest.",
+  "short_name": "Pjepsi",
+  "icons": [{
+    "src": "pjepsi.jpg",
+    "sizes": "48x48",
+    "type": "image/jpg"
+  }]
+    }
+
+
+

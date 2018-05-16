@@ -1,0 +1,1 @@
+browser.runtime.getManifest().version;
